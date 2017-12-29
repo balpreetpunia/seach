@@ -51,10 +51,10 @@
   <div class="container">
     <div class="row justify-content-between">
       <div class="col-md-3">
-        <h1 class="page-header"><a href="/inven/index.php">Inventory</a></h1>
+        <h1 class="page-header"><a href="/">Inventory</a></h1>
       </div>
       <div class="col-md-6 md-auto d-flex justify-content-end">
-          <form class="form-inline" action="/inven/index.php">
+          <form class="form-inline" action="/">
           <div class="form-group">
               <input class="form-control" name="search" placeholder="Search By Model">
               </div>
@@ -64,7 +64,7 @@
           </form>
       </div>
       <div class="col-md-3 ">
-        <a href="/inven/"><button class="btn btn-primary btn-block">Show All</button></a>
+        <a href="/"><button class="btn btn-primary btn-block">Show All</button></a>
         </div>
     </div>
 
