@@ -31,8 +31,6 @@
   $row_count2 = $sth2->rowCount();
 
 
-
-  
   //close the DB connection
   $dbh = null;
 
