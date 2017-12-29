@@ -55,7 +55,7 @@
       </div>
       <div class="col-md-6 md-auto d-flex justify-content-end">
           <form class="form-inline" action="/">
-          <div class="form-group">
+          <div class="form-group mr-3">
               <input class="form-control" name="search" placeholder="Search By Model">
               </div>
               <div class="form-group">
