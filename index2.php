@@ -1,6 +1,6 @@
 <?php
 
-  $db = $_SERVER["DOCUMENT_ROOT"] ."/access/Combined_Inventory.accdb";
+  $db = $_SERVER["DOCUMENT_ROOT"] ."/Combined_Inventory.accdb";
   if (!file_exists($db))
   {
           die("No database file.");
