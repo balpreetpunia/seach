@@ -59,7 +59,7 @@
               <input class="form-control" name="search" placeholder="Search By Model">
               </div>
               <div class="form-group">
-              <input class="form-control" type="submit" value="Submit">
+              <input class="form-control btn btn-primary" type="submit" value="Submit">
               </div>
           </form>
       </div>
