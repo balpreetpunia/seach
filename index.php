@@ -64,7 +64,7 @@
           </form>
       </div>
       <div class="col-md-3 ">
-        <a href="/"><button class="btn btn-primary btn-block">Show All</button></a>
+        <a href="/"><button class="btn btn-dark btn-block">Show All</button></a>
         </div>
     </div>
 
